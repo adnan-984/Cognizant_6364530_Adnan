@@ -15,6 +15,8 @@ All code files are uploaded inside a single **zipped folder** named `Week1`.
   - Exercise 2: E-commerce Platform Search Function
   - Exercise 7: Financial Forecasting
 
+
+## Folder also has a subfolder for output screenshots for all the programs by name.
 ## 📌 Note for Reviewers
 
 Please open the Week1 folders and extract the subfolders to view the Java files organized into the above subfolders. Each exercise includes clearly named `.java` files with comments for easy understanding and execution.
