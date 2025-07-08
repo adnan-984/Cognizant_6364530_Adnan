@@ -1,10 +1,10 @@
-# Week 1 Code Submissions – Cognizant Training
+# Weekly Code Submissions – Cognizant Training
 
-This repository contains the **Week 1 mandatory hands-on coding exercises** for the Cognizant Full Stack Development training.
+This repository contains all weeks of **mandatory hands-on coding exercises** for the Cognizant Full Stack Development training.
 
 ## 📦 Folder Structure
 
-All code files are uploaded inside a single **zipped folder** named `Week1`.
+All code files are uploaded inside a single **zipped folder** named `Week1`, 'Week2'...and so on.
 
 ### 📁 Inside the ZIP:
 - `1_1/` – Contains exercises based on **Design Patterns and Principles**
